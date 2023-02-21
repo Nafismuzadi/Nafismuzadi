@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nafismuzadi&theme=vue-dark)
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=Nafismuzadi
